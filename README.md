@@ -1,10 +1,26 @@
-- 👋 Hi, I’m Ifeanyi
-- 👀 I’m interested in Software
-- 🌱 I’m currently working as a software engineer with a leading maritime software company
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ozougwuifeanyi160@gmail.com
+# About Me
 
-<!---
-reginald160/reginald160 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Experienced Software Engineer with over 7 years of success in leading the design and development of scalable, enterprise-grade software solutions. 
+
+## 🛠 Skills & Expertise
+- **Backend Development:** .NET Core, C#
+- **Database Technologies:** SQL Server
+- **Frontend Development:** React, JavaScript, TypeScript
+- **Containerization & Orchestration:** Docker, Kubernetes
+- **Cloud Platforms:** Azure, AWS
+- **Development Practices:** Test-Driven Development (TDD), DevOps
+
+## 🚀 Career Highlights
+- Proven track record of guiding distributed teams to deliver complex projects **on time and within scope**.
+- Skilled in architecting and building robust, high-performance applications tailored to business needs.
+- Adept at solving challenging technical problems and delivering high-impact solutions.
+- Strong advocate for **clean code**, **automation**, and **continuous improvement**.
+
+## 🎯 Professional Approach
+Combines a **solid academic foundation** with **real-world expertise** to:
+- Solve complex business challenges.
+- Drive business value through innovative solutions.
+- Foster collaboration across distributed teams.
+
+---
+📫 **Let's Connect:** [LinkedIn](#) | [Portfolio](#) | [Email](#)
