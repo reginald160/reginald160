@@ -4,8 +4,8 @@ Experienced Software Engineer with over 7 years of success in leading the design
 
 ## 🛠 Skills & Expertise
 - **Backend Development:** .NET Core, C#
-- **Database Technologies:** SQL Server
-- **Frontend Development:** React, JavaScript, TypeScript
+- **Database Technologies:** SQL Server, Non SQL
+- **Frontend Development:** .NET MVC, Blazor, Angular, JavaScript, TypeScript
 - **Containerization & Orchestration:** Docker, Kubernetes
 - **Cloud Platforms:** Azure, AWS
 - **Development Practices:** Test-Driven Development (TDD), DevOps
