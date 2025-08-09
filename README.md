@@ -23,4 +23,6 @@ Combines a **solid academic foundation** with **real-world expertise** to:
 - Foster collaboration across distributed teams.
 
 ---
-**Let's Connect:** [LinkedIn](#) | [Portfolio](#) | [Email](#)
+📫 **Let's Connect:**  
+- **LinkedIn:** [linkedin.com/in/reginald160](https://www.linkedin.com/in/reginald160)  
+- **Email:** [ozougwuifeanyi160@gmail.com](mailto:ozougwuifeanyi160@gmail.com)
