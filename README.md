@@ -3,7 +3,7 @@
 Experienced Software Engineer with over 7 years of success in leading the design and development of scalable, enterprise-grade software solutions. 
 
 ## 🛠 Skills & Expertise
-- **Backend Development:** .NET Core, C#
+- **Backend Development:** .NET Core, C#, Python, Java, Node.js
 - **Database Technologies:** SQL Server, Non SQL
 - **Frontend Development:** .NET MVC, Blazor, Angular, JavaScript, TypeScript
 - **Containerization & Orchestration:** Docker, Kubernetes
