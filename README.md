@@ -25,4 +25,4 @@ Combines a **solid academic foundation** with **real-world expertise** to:
 ---
 📫 **Let's Connect:**  
 - **LinkedIn:** [linkedin.com/in/reginald160](https://www.linkedin.com/in/reginald160)  
-- **Email:** [ozougwuifeanyi160@gmail.com](mailto:ozougwuifeanyi160@gmail.com)
+- **Email:** [ozougwuifeanyi160@gmail.com](mailto:ozougwu2016@gmail.com)
