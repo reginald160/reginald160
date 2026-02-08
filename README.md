@@ -1,6 +1,6 @@
 # About Me
 
-Experienced Software Engineer with over 7 years of success in leading the design and development of scalable, enterprise-grade software solutions. 
+Experienced Software Engineer with over 5+ years of success in leading the design and development of scalable, enterprise-grade software solutions. 
 
 ## 🛠 Skills & Expertise
 - **Backend Development:** .NET Core, C#, Python, Java, Node.js
